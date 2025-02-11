@@ -5,8 +5,10 @@ package estadistica;
 public class Estadistica {
     public static double
     calcularMedia(List<Double> datos {
-        if (datos.isEmpty)
-    })
+        if (datos.isEmpty)) {
+        throw new IllegalArgumentException("Conjunto de datos vacíos")
+    }
+
 
 }
 
