@@ -1,4 +1,4 @@
-package org.example;
+package org.pollaGorda;
 package estadistica;
 
 
