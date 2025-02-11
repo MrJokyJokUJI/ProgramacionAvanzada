@@ -1,4 +1,4 @@
-package org.pollaGorda;
+package org.práctica_1;
 package estadistica;
 
 
